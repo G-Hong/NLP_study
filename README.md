@@ -1,12 +1,5 @@
 # NLPstudy
-
-<div align="center">
   
-  ![NLP](https://img.shields.io/badge/NLP-Study-blue)
-  ![TAVE](https://img.shields.io/badge/TAVE-14th-orange)
-  ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-  
-</div>
 
 ## 📚 Project Overview
 
@@ -58,9 +51,6 @@ For each topic, our study process follows these steps:
 3. **Code Review**: Group analysis of implementation details
 4. **Line-by-Line Analysis**: Deep dive into code functionality
 
-## 📊 Project Results
-
-[Coming soon]
 
 ---
 
